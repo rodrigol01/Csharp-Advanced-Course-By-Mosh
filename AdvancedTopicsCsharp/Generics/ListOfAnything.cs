@@ -2,16 +2,18 @@
 
 public class ListOfAnything
 {
-    //this first code is a limited code and unproductively
-    //this class is just limited to type int, if I want to
-    //add other types I will need create other classes...
+    //we can create a generic code, productively
+    //but nothing performative. See below 
     
-    public List<int> Values { get; set; }
+    public List<object> Values { get; set; }
 
-    public void Add(int value)
+    public void Add(object value)
     {
         Values.Add(value);
     }
 
-    public int this[int index] => throw new NotImplementedException();
+    public object this[int index] => throw new NotImplementedException();
+    
+    //see that I'm using objects to pass strings and integers
+    //this is nothing performative (although it's not productive at all)
 }
