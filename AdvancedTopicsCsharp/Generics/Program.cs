@@ -2,8 +2,11 @@
 
 using Generics;
 
-var listOfInt = new ListOfAnything();
+var listOfInt = new ListOfAnything<int>();
 listOfInt.Add(2);
 
-var listOfStrings = new ListOfAnything();
-listOfStrings.Add("Hi I'm productive");
+var listOfStrings = new ListOfAnything<string>();
+listOfStrings.Add("Hi, I'm generic, performative, reused and productive");
+
+var listOfBooks = new ListOfAnything<Book>();
+listOfBooks.Add(new Book("The Little Prince", 1943));

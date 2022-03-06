@@ -1,19 +1,15 @@
 ﻿namespace Generics;
 
-public class ListOfAnything
+public class ListOfAnything<T>
 {
-    //we can create a generic code, productively
-    //but nothing performative. See below 
-    
-    public List<object> Values { get; set; }
+    //we can create a generic code, productive, performative and we can reuse them.
 
-    public void Add(object value)
+    public List<T> Values { get; set; }
+
+    public void Add(T value)
     {
         Values.Add(value);
     }
 
-    public object this[int index] => throw new NotImplementedException();
-    
-    //see that I'm using objects to pass strings and integers
-    //this is nothing performative (although it's not productive at all)
+    public T this[int index] => throw new NotImplementedException();
 }
