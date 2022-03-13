@@ -2,6 +2,13 @@
 {
     //but now, we will transform the class in generic.
     
+    //5 types of constraints:
+    //where T : IComparable 
+    //where T : Product (class Product and his children's) 
+    //where T : struct
+    //where T : class
+    //where T : new()
+
     //not generic
     public int Max (int a, int b) =>
          a > b ? a : b;

@@ -1,6 +1,6 @@
 ﻿namespace Generics;
 
-public class Book
+public class Book : Product
 {
     public Book(string name, double year)
     {
