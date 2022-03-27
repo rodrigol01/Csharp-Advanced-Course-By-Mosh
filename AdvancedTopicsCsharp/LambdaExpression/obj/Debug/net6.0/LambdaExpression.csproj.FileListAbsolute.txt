@@ -1,0 +1,15 @@
+C:\Users\leo-b\Documents\estudos rodrigo\Csharp-Advanced-Course-By-Mosh\AdvancedTopicsCsharp\LambdaExpression\bin\Debug\net6.0\LambdaExpression.exe
+C:\Users\leo-b\Documents\estudos rodrigo\Csharp-Advanced-Course-By-Mosh\AdvancedTopicsCsharp\LambdaExpression\bin\Debug\net6.0\LambdaExpression.deps.json
+C:\Users\leo-b\Documents\estudos rodrigo\Csharp-Advanced-Course-By-Mosh\AdvancedTopicsCsharp\LambdaExpression\bin\Debug\net6.0\LambdaExpression.runtimeconfig.json
+C:\Users\leo-b\Documents\estudos rodrigo\Csharp-Advanced-Course-By-Mosh\AdvancedTopicsCsharp\LambdaExpression\bin\Debug\net6.0\LambdaExpression.dll
+C:\Users\leo-b\Documents\estudos rodrigo\Csharp-Advanced-Course-By-Mosh\AdvancedTopicsCsharp\LambdaExpression\bin\Debug\net6.0\LambdaExpression.pdb
+C:\Users\leo-b\Documents\estudos rodrigo\Csharp-Advanced-Course-By-Mosh\AdvancedTopicsCsharp\LambdaExpression\obj\Debug\net6.0\LambdaExpression.csproj.AssemblyReference.cache
+C:\Users\leo-b\Documents\estudos rodrigo\Csharp-Advanced-Course-By-Mosh\AdvancedTopicsCsharp\LambdaExpression\obj\Debug\net6.0\LambdaExpression.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leo-b\Documents\estudos rodrigo\Csharp-Advanced-Course-By-Mosh\AdvancedTopicsCsharp\LambdaExpression\obj\Debug\net6.0\LambdaExpression.AssemblyInfoInputs.cache
+C:\Users\leo-b\Documents\estudos rodrigo\Csharp-Advanced-Course-By-Mosh\AdvancedTopicsCsharp\LambdaExpression\obj\Debug\net6.0\LambdaExpression.AssemblyInfo.cs
+C:\Users\leo-b\Documents\estudos rodrigo\Csharp-Advanced-Course-By-Mosh\AdvancedTopicsCsharp\LambdaExpression\obj\Debug\net6.0\LambdaExpression.csproj.CoreCompileInputs.cache
+C:\Users\leo-b\Documents\estudos rodrigo\Csharp-Advanced-Course-By-Mosh\AdvancedTopicsCsharp\LambdaExpression\obj\Debug\net6.0\LambdaExpression.dll
+C:\Users\leo-b\Documents\estudos rodrigo\Csharp-Advanced-Course-By-Mosh\AdvancedTopicsCsharp\LambdaExpression\obj\Debug\net6.0\refint\LambdaExpression.dll
+C:\Users\leo-b\Documents\estudos rodrigo\Csharp-Advanced-Course-By-Mosh\AdvancedTopicsCsharp\LambdaExpression\obj\Debug\net6.0\LambdaExpression.pdb
+C:\Users\leo-b\Documents\estudos rodrigo\Csharp-Advanced-Course-By-Mosh\AdvancedTopicsCsharp\LambdaExpression\obj\Debug\net6.0\LambdaExpression.genruntimeconfig.cache
+C:\Users\leo-b\Documents\estudos rodrigo\Csharp-Advanced-Course-By-Mosh\AdvancedTopicsCsharp\LambdaExpression\obj\Debug\net6.0\ref\LambdaExpression.dll
