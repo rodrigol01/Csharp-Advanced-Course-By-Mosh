@@ -1,0 +1,15 @@
+C:\Users\leo-b\Documents\estudos rodrigo\Csharp-Advanced-Course-By-Mosh\AdvancedTopicsCsharp\EventsAndDelegate\bin\Debug\net6.0\EventsAndDelegate.exe
+C:\Users\leo-b\Documents\estudos rodrigo\Csharp-Advanced-Course-By-Mosh\AdvancedTopicsCsharp\EventsAndDelegate\bin\Debug\net6.0\EventsAndDelegate.deps.json
+C:\Users\leo-b\Documents\estudos rodrigo\Csharp-Advanced-Course-By-Mosh\AdvancedTopicsCsharp\EventsAndDelegate\bin\Debug\net6.0\EventsAndDelegate.runtimeconfig.json
+C:\Users\leo-b\Documents\estudos rodrigo\Csharp-Advanced-Course-By-Mosh\AdvancedTopicsCsharp\EventsAndDelegate\bin\Debug\net6.0\EventsAndDelegate.dll
+C:\Users\leo-b\Documents\estudos rodrigo\Csharp-Advanced-Course-By-Mosh\AdvancedTopicsCsharp\EventsAndDelegate\bin\Debug\net6.0\EventsAndDelegate.pdb
+C:\Users\leo-b\Documents\estudos rodrigo\Csharp-Advanced-Course-By-Mosh\AdvancedTopicsCsharp\EventsAndDelegate\obj\Debug\net6.0\EventsAndDelegate.csproj.AssemblyReference.cache
+C:\Users\leo-b\Documents\estudos rodrigo\Csharp-Advanced-Course-By-Mosh\AdvancedTopicsCsharp\EventsAndDelegate\obj\Debug\net6.0\EventsAndDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leo-b\Documents\estudos rodrigo\Csharp-Advanced-Course-By-Mosh\AdvancedTopicsCsharp\EventsAndDelegate\obj\Debug\net6.0\EventsAndDelegate.AssemblyInfoInputs.cache
+C:\Users\leo-b\Documents\estudos rodrigo\Csharp-Advanced-Course-By-Mosh\AdvancedTopicsCsharp\EventsAndDelegate\obj\Debug\net6.0\EventsAndDelegate.AssemblyInfo.cs
+C:\Users\leo-b\Documents\estudos rodrigo\Csharp-Advanced-Course-By-Mosh\AdvancedTopicsCsharp\EventsAndDelegate\obj\Debug\net6.0\EventsAndDelegate.csproj.CoreCompileInputs.cache
+C:\Users\leo-b\Documents\estudos rodrigo\Csharp-Advanced-Course-By-Mosh\AdvancedTopicsCsharp\EventsAndDelegate\obj\Debug\net6.0\EventsAndDelegate.dll
+C:\Users\leo-b\Documents\estudos rodrigo\Csharp-Advanced-Course-By-Mosh\AdvancedTopicsCsharp\EventsAndDelegate\obj\Debug\net6.0\refint\EventsAndDelegate.dll
+C:\Users\leo-b\Documents\estudos rodrigo\Csharp-Advanced-Course-By-Mosh\AdvancedTopicsCsharp\EventsAndDelegate\obj\Debug\net6.0\EventsAndDelegate.pdb
+C:\Users\leo-b\Documents\estudos rodrigo\Csharp-Advanced-Course-By-Mosh\AdvancedTopicsCsharp\EventsAndDelegate\obj\Debug\net6.0\EventsAndDelegate.genruntimeconfig.cache
+C:\Users\leo-b\Documents\estudos rodrigo\Csharp-Advanced-Course-By-Mosh\AdvancedTopicsCsharp\EventsAndDelegate\obj\Debug\net6.0\ref\EventsAndDelegate.dll
